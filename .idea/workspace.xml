@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c382f58-0840-40dd-8a70-e634270f38fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArturiCelebrityLab.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Celebrity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CelebrityFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CelebrityGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CelebrityPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CelebrityRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StartPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CelebrityGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CelebrityGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CelebrityPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CelebrityPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StartPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StartPanel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +31,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/BT_3W2_17/IdeaProjects/ArturiCelebrityLab",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
